@@ -6,6 +6,7 @@ import Experiences from "../Components/Home/Experiences";
 import HowDoesSEOHelp from "../Components/Home/HowDoesSEOHelp";
 import HowDoesWeGrowYourBusiness from "../Components/Home/HowDoesWeGrowYourBusiness";
 import LatestCaseStudy from "../Components/Home/LatestCaseStudy";
+import LocalInternationalBrands from "../Components/Home/LocalInternationalBrands";
 import OurAffordableSEOServices from "../Components/Home/OurAffordableSEOServices";
 import OurSEOGrowthStrategy from "../Components/Home/OurSEOGrowthStrategy";
 import Reviews from "../Components/Home/Reviews";
@@ -27,6 +28,7 @@ const Home = () => {
             <Testimonial />
             <BookAnAppoinment />
             <OurSEOGrowthStrategy />
+            <LocalInternationalBrands />
             <LatestCaseStudy />
         </div>
     );
