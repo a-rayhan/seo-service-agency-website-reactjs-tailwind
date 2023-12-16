@@ -1,7 +1,7 @@
 const HowDoesSEOHelp = () => {
     return (
         <section className="bg-[#f7f7f7] py-24">
-            <div className="max-w-7xl mx-auto px-6 ">
+            <div className="max-w-7xl mx-auto px-6">
                 <div className="flex flex-col xl:flex-row items-center xl:items-start gap-8">
                     <div className="flex-1">
                         <h2 className="text-4xl font-bold text-[#3b3663] mb-6">
